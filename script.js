@@ -73,8 +73,8 @@ function page2Animation() {
     scrollTrigger: {
       trigger: "#page2",
       scroller: "body",
-      start: "top 10%",
-      end: "top 120%",
+      start: "top top",
+      end: "top 90%",
       scrub: 2,
     }
   })
